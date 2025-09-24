@@ -1,0 +1,179 @@
+Script started on Fri 22 Sep 2023 02:22:12 AM CDT
+[?1034hbash-4.2$ ./Mohab_yousef2[1Pousef2Yousef2
+banner_id: 904154154
+ID PRIORITY RUNTIME--->PCB[0]
+AA 4 1 
+ID PRIORITY RUNTIME--->PCB[1]
+BB 5 2
+ID PRIORITY RUNTIME--->PCB[2]
+CC 1 3 
+ID PRIORITY RUNTIME--->PCB[3]
+EE 4 4
+ID PRIORITY RUNTIME--->PCB[4]
+DD 5 5
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	4		1	R
+BB	5		2	R
+CC	1		3	R
+EE	4		4	R
+DD	5		5	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	4		1	R
+BB	4		1	R
+CC	1		3	R
+EE	4		4	R
+DD	5		5	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	4		1	R
+BB	4		1	R
+CC	1		3	R
+EE	4		4	R
+DD	4		4	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	4		1	R
+CC	1		3	R
+EE	4		4	R
+DD	4		4	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	1		3	R
+EE	4		4	R
+DD	4		4	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	1		3	R
+EE	3		3	R
+DD	4		4	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	1		3	R
+EE	3		3	R
+DD	3		3	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	1		3	R
+EE	2		2	R
+DD	3		3	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	1		3	R
+EE	2		2	R
+DD	2		2	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	1		3	R
+EE	1		1	R
+DD	2		2	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	1		3	R
+EE	1		1	R
+DD	1		1	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	0		2	R
+EE	1		1	R
+DD	1		1	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	0		2	R
+EE	0		0	F
+DD	1		1	R
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	0		2	R
+EE	0		0	F
+DD	0		0	F
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	-1		1	R
+EE	0		0	F
+DD	0		0	F
+press any key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+AA	3		0	F
+BB	3		0	F
+CC	-2		0	F
+EE	0		0	F
+DD	0		0	F
+press any key to continue...
+
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ ec[Kxit
+exit
+
+Script done on Fri 22 Sep 2023 02:23:00 AM CDT
